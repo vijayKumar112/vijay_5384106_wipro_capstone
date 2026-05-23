@@ -1,0 +1,4 @@
+row_name,location,partial_location,invalid_location,property_type,min_budget,max_budget,bedrooms
+valid_buy_search,Noida,Noida,Noyzabc123,Flat/Apartment,20 Lacs,80 Lacs,2 BHK
+invalid_location_search,Noyzabc123,Noyzabc123,Noyzabc123,Flat/Apartment,20 Lacs,80 Lacs,2 BHK
+

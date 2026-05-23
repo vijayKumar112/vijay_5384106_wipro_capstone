@@ -1,0 +1,19 @@
+[32mINFO    [0m root:buy_module_steps.py:16 Clicking Buy Tab
+[32mINFO    [0m root:buy_module_steps.py:19 Entering Location: Hyderabad
+[32mINFO    [0m root:buy_module_steps.py:22 Clicking Search Button
+[32mINFO    [0m root:buy_module_steps.py:27 Verifying Buy Search Results
+[32mINFO    [0m root:buy_module_steps.py:38 Closing popups if displayed
+[32mINFO    [0m root:buy_module_steps.py:41 Applying 2 BHK Filter
+[32mINFO    [0m root:buy_module_steps.py:44 Applying Residential Apartment Filter
+[32mINFO    [0m root:buy_module_steps.py:47 Applying Ready To Move Filter
+[32mINFO    [0m root:buy_module_steps.py:50 Applying Owner Filter
+[32mINFO    [0m root:buy_module_steps.py:53 Applying Locality Filter
+[32mINFO    [0m root:buy_module_steps.py:55 Locality Filter Applied: False
+[32mINFO    [0m root:buy_module_steps.py:57 Applying RERA Approved Filter
+[32mINFO    [0m root:buy_module_steps.py:59 RERA Approved Filter Applied: True
+[32mINFO    [0m root:buy_module_steps.py:68 Selecting First Filtered Buy Result
+[32mINFO    [0m root:buy_module_steps.py:71 Opened Buy Property Page URL: https://www.99acres.com/3-bhk-bedroom-independent-house-villa-for-sale-in-tara-nagar-hyderabad-225-sqft-r1-spid-H85982222
+[32mINFO    [0m root:buy_module_steps.py:79 Switching To Buy Property Window
+[32mINFO    [0m root:test_buy_negative.py:54 Opening Owner Details
+[32mINFO    [0m root:test_buy_negative.py:57 Clicking View Phone Number Without Login
+[32mINFO    [0m root:test_buy_negative.py:65 Verifying login/register prompt is displayed

@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_buy_negative.py:24 Clicking Buy Tab
+[32mINFO    [0m root:test_buy_negative.py:27 Keeping Search Box Empty
+[32mINFO    [0m root:test_buy_negative.py:30 Clicking Search Button With Empty Location
+[32mINFO    [0m root:test_buy_negative.py:35 Current URL After Empty Search: https://www.99acres.com/

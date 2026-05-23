@@ -1,0 +1,93 @@
+Feature: 99acres Buy module end-to-end flow # features/buy_end_to_end.feature:1
+  As a buyer
+  I want to complete a full Buy search journey
+  So that I can verify the main customer path
+  @buy @end_to_end
+  Scenario: Complete Buy search journey from home page to property details      # features/buy_end_to_end.feature:7
+    Given the user opens the 99acres home page                                  # features/steps/buy_steps.py:7
+    When the user selects the Buy module                                        # features/steps/buy_steps.py:19
+    And the user searches for properties using test data row "valid_buy_search" # features/steps/buy_steps.py:24
+      Traceback (most recent call last):
+        File "C:\Users\intel\Downloads\SeleniumBDD\.venv\Lib\site-packages\behave\model.py", line 1329, in run
+          match.run(runner.context)
+          ~~~~~~~~~^^^^^^^^^^^^^^^^
+        File "C:\Users\intel\Downloads\SeleniumBDD\.venv\Lib\site-packages\behave\matchers.py", line 98, in run
+          self.func(context, *args, **kwargs)
+          ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "features\steps\buy_steps.py", line 27, in step_search_using_test_data
+          context.buy_page.search_location(context.search_data["location"])
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\intel\Downloads\SeleniumBDD\pages\buy_page.py", line 49, in search_location
+          self.type_text(self.SEARCH_INPUT, location)
+          ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\intel\Downloads\SeleniumBDD\pages\base_page.py", line 22, in type_text
+          element = self.wait.until(EC.visibility_of_element_located(locator))
+        File "C:\Users\intel\Downloads\SeleniumBDD\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+          raise TimeoutException(message, screen, stacktrace)
+      selenium.common.exceptions.TimeoutException: Message:
+
+    And the user applies the property type from test data                       # None
+    And the user applies the budget range from test data                        # None
+    And the user applies the bedroom preference from test data                  # None
+    And the user opens the first Buy property result                            # None
+    Then the Buy property detail page should be displayed                       # None
+
+Feature: 99acres Buy new launch properties # features/buy_newlaunch.feature:1
+  As a buyer
+  I want to view new launch properties
+  So that I can explore recently launched projects
+  @buy @newlaunch @end_to_end
+  Scenario: Open a New Launch property detail page        # features/buy_newlaunch.feature:13
+    Given the user opens the 99acres Buy page             # features/steps/buy_steps.py:13
+    When the user opens New Launch properties             # features/steps/buy_steps.py:53
+    And the user opens the first Buy property result      # features/steps/buy_steps.py:48
+      Traceback (most recent call last):
+        File "C:\Users\intel\Downloads\SeleniumBDD\.venv\Lib\site-packages\behave\model.py", line 1329, in run
+          match.run(runner.context)
+          ~~~~~~~~~^^^^^^^^^^^^^^^^
+        File "C:\Users\intel\Downloads\SeleniumBDD\.venv\Lib\site-packages\behave\matchers.py", line 98, in run
+          self.func(context, *args, **kwargs)
+          ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "features\steps\buy_steps.py", line 50, in step_open_first_result
+          context.buy_page.open_first_property_result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+        File "C:\Users\intel\Downloads\SeleniumBDD\pages\buy_page.py", line 74, in open_first_property_result
+          self.wait.until(EC.presence_of_element_located(self.RESULT_CARDS)).click()
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+        File "C:\Users\intel\Downloads\SeleniumBDD\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 114, in click
+          self._execute(Command.CLICK_ELEMENT)
+          ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+        File "C:\Users\intel\Downloads\SeleniumBDD\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 508, in _execute
+          return self._parent.execute(command, params)
+                 ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+        File "C:\Users\intel\Downloads\SeleniumBDD\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 468, in execute
+          self.error_handler.check_response(response)
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+        File "C:\Users\intel\Downloads\SeleniumBDD\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+          raise exception_class(message, screen, stacktrace)
+      selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+        (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+      Stacktrace:
+      	chromedriver!GetHandleVerifier [0x7ff69b347de5+14895]
+      	chromedriver!GetHandleVerifier [0x7ff69b347e50+14900]
+      	chromedriver!(No symbol) [0x7ff69b0ad396]
+      	chromedriver!(No symbol) [0x7ff69b108dc4]
+      	chromedriver!(No symbol) [0x7ff69b0fbce6]
+      	chromedriver!(No symbol) [0x7ff69b13005a]
+      	chromedriver!(No symbol) [0x7ff69b0fb566]
+      	chromedriver!(No symbol) [0x7ff69b15486f]
+      	chromedriver!(No symbol) [0x7ff69b0f9df8]
+      	chromedriver!(No symbol) [0x7ff69b0face3]
+      	chromedriver!GetHandleVerifier [0x7ff69b65cc49+3296f9]
+      	chromedriver!GetHandleVerifier [0x7ff69b657375+323e25]
+      	chromedriver!GetHandleVerifier [0x7ff69b67bc82+348732]
+      	chromedriver!GetHandleVerifier [0x7ff69b366045+32af5]
+      	chromedriver!GetHandleVerifier [0x7ff69b36ecec+3b79c]
+      	chromedriver!GetHandleVerifier [0x7ff69b351bc4+1e674]
+      	chromedriver!GetHandleVerifier [0x7ff69b351d54+1e804]
+      	chromedriver!GetHandleVerifier [0x7ff69b3360e7+2b97]
+      	KERNEL32!BaseThreadInitThunk [0x7ffe7296e957+17]
+      	ntdll!RtlUserThreadStart [0x7ffe74aa427c+2c]
+
+    Then the Buy property detail page should be displayed # None
+

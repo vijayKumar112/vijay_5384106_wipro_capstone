@@ -1,0 +1,95 @@
+[32mINFO    [0m root:buy_module_steps.py:16 Clicking Buy Tab
+[32mINFO    [0m root:buy_module_steps.py:19 Entering Location: Hyderabad
+[32mINFO    [0m root:buy_module_steps.py:22 Clicking Search Button
+[32mINFO    [0m root:buy_module_steps.py:27 Verifying Buy Search Results
+[32mINFO    [0m root:buy_module_steps.py:38 Closing popups if displayed
+[32mINFO    [0m root:buy_module_steps.py:41 Applying 2 BHK Filter
+[32mINFO    [0m root:buy_module_steps.py:44 Applying Residential Apartment Filter
+[32mINFO    [0m root:buy_module_steps.py:47 Applying Ready To Move Filter
+[32mINFO    [0m root:buy_module_steps.py:50 Applying Owner Filter
+[32mINFO    [0m root:buy_module_steps.py:53 Applying Locality Filter
+[32mINFO    [0m root:buy_module_steps.py:55 Locality Filter Applied: False
+[32mINFO    [0m root:buy_module_steps.py:57 Applying RERA Approved Filter
+[32mINFO    [0m root:buy_module_steps.py:59 RERA Approved Filter Applied: True
+[32mINFO    [0m root:buy_module_steps.py:68 Selecting First Filtered Buy Result
+[32mINFO    [0m root:buy_module_steps.py:71 Opened Buy Property Page URL: https://www.99acres.com/30-bhk-bedroom-independent-house-villa-for-sale-in-begumpet-hyderabad-9000-sqft-r1-spid-Y85913864
+[32mINFO    [0m root:buy_module_steps.py:79 Switching To Buy Property Window
+[32mINFO    [0m root:test_buy_positive.py:104 Clicking Shortlist
+[32mINFO    [0m root:test_buy_positive.py:107 Opening Owner Details
+[32mINFO    [0m root:test_buy_positive.py:110 Clicking View Phone Number
+[32mINFO    [0m root:test_buy_positive.py:113 Verifying Contact Section
+[32mINFO    [0m root:test_buy_positive.py:119 Buy Property Title: Buy
+|
+Post property
+FREE
+V A
+
+Home›Property in Hyderabad›House for sale in Hyderabad›House for sale in Rajbhavan Road›House for sale in Begumpet›10 to 20 Cr
+Posted on Apr 13, 2026 Ready to move
+Platinum
+₹ 11.5 Cr@ 1.15 L per sqyd
+Estimated EMI ₹9,18,509
+30Bedrooms 25Baths
+Independent House/Villa for Sale
+in Begumpet, Hyderabad
+Shortlist
+Contact OwnerFREE
+RERA STATUS NOT AVAILABLE Website: http://rerait.telangana.gov.in/
+OverviewOwner DetailsRegistry RecordExplore LocalityArticles
+Videos (1)
+Property (11)
+3 people viewed this property yesterday
+Area
+Plot area 1000
+(836.13 sq.m.)  
+sqyd
+Configuration
+30 Bedrooms , 25 Bathrooms, 3+ Balconies
+Price
+₹ 11.5 Crore
+@ 1.15 L per sqyd (Negotiable)
+Address
+Begumpet, Hyderabad
+Total Floors
+5 Floors
+Facing
+South
+Overlooking
+Main Road
+Property Age
+10+ Year Old
+Transaction Type:Resale
+Property Ownership:Freehold
+Flooring:MarbleWidth of facing road:30.0 FeetParking:1 OpenWater Source:Borewell/Tank,24*7 Water
+Power Backup:None
+About Property
+Address: Begumpet, Hyderabad
+Note : Currently property providing the rent per month rental income is 2 lakh 
+Independent villa
+An impeccable opportunity is here for those who are looking to own aesthetically designed independent villa in , begumpet, telangana which ensures a relaxed and comfortable stay. Being an independent vi...
+More >>
+Begumpet Photos
++26 more image
+Owner Details
+Pavan Kadigari
+Owner
+Pavan Kadigari
+Properties Listed:1
+Localities : Begumpet
+Check prices in registry records
+In Begumpet
+19 recent transactions in this locality
+in last 3 years
+Avg. transaction rates are Rs. 4872/sqft
+Based on last 19 transactions
+Interesting Reads
+Read realty news, guides & articles
+Akshita Infra: A legacy of excellence
+Apr 17, 2026
+ASBL Landmark unveils final tower launch
+Oct 08, 2025
+Top reasons to buy a home in Vertex Florenza
+Dec 29, 2025
+Top reasons to invest in North Hyderabad
+Feb 28, 2026
+[32mINFO    [0m root:test_buy_positive.py:120 Sale Price: ₹ 11.5 Cr

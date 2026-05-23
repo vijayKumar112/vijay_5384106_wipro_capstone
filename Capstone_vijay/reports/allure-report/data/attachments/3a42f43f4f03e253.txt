@@ -1,0 +1,531 @@
+[32mINFO    [0m root:test_buy_module.py:20 Clicking Buy Tab
+[32mINFO    [0m root:test_buy_module.py:23 Entering Location: Hyderabad
+[32mINFO    [0m root:test_buy_module.py:26 Clicking Search Button
+[32mINFO    [0m root:test_buy_module.py:31 Verifying Buy Search Results
+[32mINFO    [0m root:test_buy_module.py:42 Closing popups if displayed
+[32mINFO    [0m root:test_buy_module.py:45 Applying 2 BHK Filter
+[32mINFO    [0m root:test_buy_module.py:48 Applying Residential Apartment Filter
+[32mINFO    [0m root:test_buy_module.py:51 Applying Ready To Move Filter
+[32mINFO    [0m root:test_buy_module.py:54 Applying Owner Filter
+[32mINFO    [0m root:test_buy_module.py:57 Applying Locality Filter
+[32mINFO    [0m root:test_buy_module.py:59 Locality Filter Applied: False
+[32mINFO    [0m root:test_buy_module.py:61 Applying RERA Approved Filter
+[32mINFO    [0m root:test_buy_module.py:63 RERA Approved Filter Applied: True
+[32mINFO    [0m root:test_buy_module.py:72 Selecting First Filtered Buy Result
+[32mINFO    [0m root:test_buy_module.py:75 Opened Buy Property Page URL: https://www.99acres.com/3-bhk-bedroom-independent-house-villa-for-sale-in-tara-nagar-hyderabad-225-sqft-r1-spid-H85982222
+[32mINFO    [0m root:test_buy_module.py:83 Switching To Buy Property Window
+[32mINFO    [0m root:test_buy_module.py:161 Clicking Shortlist
+[32mINFO    [0m root:test_buy_module.py:164 Opening Owner Details
+[32mINFO    [0m root:test_buy_module.py:167 Clicking View Phone Number
+[32mINFO    [0m root:test_buy_module.py:170 Verifying Contact Section
+[32mINFO    [0m root:test_buy_module.py:176 Buy Property Title: Buy
+|
+Post property
+FREE
+
+RERA STATUS
+₹ 5 Cr
+3Bedrooms 3Baths
+Contact OwnerFREE
+RERA STATUS NOT AVAILABLE Website: http://rerait.telangana.gov.in/
+OverviewOwner DetailsRegistry RecordLocality ReviewsFeatured DealersRecommendations
+
+
+
+Property sold out? Incorrect data?Report
+Owner Details
+Srikanth Makineni
+Owner
+Srikanth Makineni
+Properties Listed:2Verified Properties:2
+Localities : Serilingampally,Tara Nagar
+Send enquiry to Owner
+You are Individual Dealer
+IND (+91)
+GBR (+44)
+USA (+1)
+AUS (+61)
+MYS (+60)
+ARE (+971)
+AFG (+93)
+ALB (+355)
+DZA (+213)
+ASM (+1684)
+AND (+376)
+AGO (+244)
+AIA (+1264)
+ATA (+672)
+ATG (+1268)
+ARG (+54)
+ARM (+374)
+ABW (+297)
+AUT (+43)
+AZE (+994)
+BHS (+1242)
+BHR (+973)
+BGD (+880)
+BRB (+1246)
+BLR (+375)
+BEL (+32)
+BLZ (+501)
+BEN (+229)
+BMU (+1441)
+BTN (+975)
+BOL (+591)
+BIH (+387)
+BWA (+267)
+BRA (+55)
+VGB (+1284)
+BRN (+673)
+BGR (+359)
+BFA (+226)
+MMR (+95)
+BDI (+257)
+KHM (+855)
+CMR (+237)
+CAN (+1)
+CPV (+238)
+CYM (+1345)
+CAF (+236)
+TCD (+235)
+CHL (+56)
+CHN (+86)
+CXR (+61)
+CCK (+61)
+COL (+57)
+COM (+269)
+COK (+682)
+CRC (+506)
+HRV (+385)
+CYP (+357)
+CZE (+420)
+COD (+243)
+DNK (+45)
+DJI (+253)
+DMA (+1767)
+DOM (+1809)
+ECU (+593)
+EGY (+20)
+SLV (+503)
+GNQ (+240)
+ERI (+291)
+EST (+372)
+ETH (+251)
+FLK (+500)
+FRO (+298)
+FJI (+679)
+FIN (+358)
+FRA (+33)
+PYF (+689)
+GAB (+241)
+GMB (+220)
+GEO (+995)
+DEU (+49)
+GHA (+233)
+GIB (+350)
+GRC (+30)
+GRL (+299)
+GRD (+1473)
+GUM (+1671)
+GTM (+502)
+GIN (+224)
+GNB (+245)
+GUY (+592)
+HTI (+509)
+VAT (+39)
+HND (+504)
+HKG (+852)
+HUN (+36)
+IS (+354)
+IDN (+62)
+IRQ (+964)
+IRL (+353)
+IMN (+44)
+ISR (+972)
+ITA (+39)
+CIV (+225)
+JAM (+1876)
+JPN (+81)
+JOR (+962)
+KAZ (+7)
+KEN (+254)
+KIR (+686)
+KWT (+965)
+KGZ (+996)
+LAO (+856)
+LVA (+371)
+LBN (+961)
+LSO (+266)
+LBR (+231)
+LBY (+218)
+LIE (+423)
+LTU (+370)
+LUX (+352)
+MAC (+853)
+MKD (+389)
+MDG (+261)
+MWI (+265)
+MDV (+960)
+MLI (+223)
+MLT (+356)
+MHL (+692)
+MRT (+222)
+MUS (+230)
+MYT (+262)
+MEX (+52)
+FSM (+691)
+MDA (+373)
+MCO (+377)
+MNG (+976)
+MNE (+382)
+MSR (+1664)
+MAR (+212)
+MOZ (+258)
+NAM (+264)
+NRU (+674)
+NPL (+977)
+NLD (+31)
+ANT (+599)
+NCL (+687)
+NZL (+64)
+NIC (+505)
+NER (+227)
+NGA (+234)
+NIU (+683)
+NFK (+672)
+MNP (+1670)
+NOR (+47)
+OMN (+968)
+PAK (+92)
+PLW (+680)
+PAN (+507)
+PNG (+675)
+PRY (+595)
+PER (+51)
+PHL (+63)
+PCN (+870)
+POL (+48)
+PRT (+351)
+PRI (+1)
+QAT (+974)
+COG (+242)
+ROU (+40)
+RUS (+7)
+RWA (+250)
+BLM (+590)
+SHN (+290)
+KNA (+1869)
+LCA (+1758)
+MAF (+1599)
+SPM (+508)
+VCT (+1784)
+WSM (+685)
+SMR (+378)
+STP (+239)
+SAU (+966)
+SEN (+221)
+SRB (+381)
+SSU (+211)
+SYC (+248)
+SLE (+232)
+SGP (+65)
+SVK (+421)
+SVN (+386)
+SLB (+677)
+SOM (+252)
+ZAF (+27)
+KOR (+82)
+ESP (+34)
+LKA (+94)
+SUR (+597)
+SWZ (+268)
+SWE (+46)
+CHE (+41)
+TWN (+886)
+TJK (+992)
+TZA (+255)
+THA (+66)
+TLS (+670)
+TGO (+228)
+TKL (+690)
+TON (+676)
+TTO (+1868)
+TUN (+216)
+TUR (+90)
+TKM (+993)
+TCA (+1649)
+TUV (+688)
+UGA (+256)
+URY (+598)
+VIR (+1340)
+UZB (+998)
+VUT (+678)
+VEN (+58)
+VNM (+84)
+WLF (+681)
+YEM (+967)
+ZMB (+260)
+ZWE (+263)
+400 chars
+I agree to the Terms & Conditions and Privacy Policy
+Check prices in registry records
+In Tara Nagar
+3 recent transactions in this locality
+Avg. transaction rates are Rs. 3757/sqft
+
+
+You are requesting to view advertiser details.
+POSTED BY OWNER:
++91 98***543**
+SRIKANTH MAKINENI | SRIKANTH MAKINENI
+POSTED ON MAY 02, 2026:
+Rs5 Cr | Chanda Nagar, Tara Nagar
+225 SQFT | 3 BEDROOMS INDEPENDENT HOUSE/VILLA
+Please fill in your details to be shared with this advertiser only.
+BASIC INFORMATION
+Are you a property dealer Yes No
+Name
+Phone
+That looks like an invalid phone number
++91 IND
++44 GBR
++1 USA
++61 AUS
++60 MYS
++971 ARE
++93 AFG
++355 ALB
++213 DZA
++1684 ASM
++376 AND
++244 AGO
++1264 AIA
++672 ATA
++1268 ATG
++54 ARG
++374 ARM
++297 ABW
++43 AUT
++994 AZE
++1242 BHS
++973 BHR
++880 BGD
++1246 BRB
++375 BLR
++32 BEL
++501 BLZ
++229 BEN
++1441 BMU
++975 BTN
++591 BOL
++387 BIH
++267 BWA
++55 BRA
++1284 VGB
++673 BRN
++359 BGR
++226 BFA
++95 MMR
++257 BDI
++855 KHM
++237 CMR
++1 CAN
++238 CPV
++1345 CYM
++236 CAF
++235 TCD
++56 CHL
++86 CHN
++61 CXR
++61 CCK
++57 COL
++269 COM
++682 COK
++506 CRC
++385 HRV
++357 CYP
++420 CZE
++243 COD
++45 DNK
++253 DJI
++1767 DMA
++1809 DOM
++593 ECU
++20 EGY
++503 SLV
++240 GNQ
++291 ERI
++372 EST
++251 ETH
++500 FLK
++298 FRO
++679 FJI
++358 FIN
++33 FRA
++689 PYF
++241 GAB
++220 GMB
++995 GEO
++49 DEU
++233 GHA
++350 GIB
++30 GRC
++299 GRL
++1473 GRD
++1671 GUM
++502 GTM
++224 GIN
++245 GNB
++592 GUY
++509 HTI
++39 VAT
++504 HND
++852 HKG
++36 HUN
++354 IS
++62 IDN
++964 IRQ
++353 IRL
++44 IMN
++972 ISR
++39 ITA
++225 CIV
++1876 JAM
++81 JPN
++962 JOR
++7 KAZ
++254 KEN
++686 KIR
++965 KWT
++996 KGZ
++856 LAO
++371 LVA
++961 LBN
++266 LSO
++231 LBR
++218 LBY
++423 LIE
++370 LTU
++352 LUX
++853 MAC
++389 MKD
++261 MDG
++265 MWI
++960 MDV
++223 MLI
++356 MLT
++692 MHL
++222 MRT
++230 MUS
++262 MYT
++52 MEX
++691 FSM
++373 MDA
++377 MCO
++976 MNG
++382 MNE
++1664 MSR
++212 MAR
++258 MOZ
++264 NAM
++674 NRU
++977 NPL
++31 NLD
++599 ANT
++687 NCL
++64 NZL
++505 NIC
++227 NER
++234 NGA
++683 NIU
++672 NFK
++1670 MNP
++47 NOR
++968 OMN
++92 PAK
++680 PLW
++507 PAN
++675 PNG
++595 PRY
++51 PER
++63 PHL
++870 PCN
++48 POL
++351 PRT
++1 PRI
++974 QAT
++242 COG
++40 ROU
++7 RUS
++250 RWA
++590 BLM
++290 SHN
++1869 KNA
++1758 LCA
++1599 MAF
++508 SPM
++1784 VCT
++685 WSM
++378 SMR
++239 STP
++966 SAU
++221 SEN
++381 SRB
++211 SSU
++248 SYC
++232 SLE
++65 SGP
++421 SVK
++386 SVN
++677 SLB
++252 SOM
++27 ZAF
++82 KOR
++34 ESP
++94 LKA
++597 SUR
++268 SWZ
++46 SWE
++41 CHE
++886 TWN
++992 TJK
++255 TZA
++66 THA
++670 TLS
++228 TGO
++690 TKL
++676 TON
++1868 TTO
++216 TUN
++90 TUR
++993 TKM
++1649 TCA
++688 TUV
++256 UGA
++598 URY
++1340 VIR
++998 UZB
++678 VUT
++58 VEN
++84 VNM
++681 WLF
++967 YEM
++260 ZMB
++263 ZWE
+OPTIONAL INFORMATION
+By when you are planning to buy the property?
+3 months
+6 months
+More than 6 months
+I am interested in home loan
+I am interested in site visits.
+I agree to the Terms & Conditions and Privacy Policy
+We do not spam− Details shared with selected advertisers only.Connect with us for better deals & offers.Your details are secure with us.
+Verify your number
++91-6397650133
+Enter your 4 digit OTP
+Haven't received yet?
+Resend OTP
+Verify & Continue
+Or, Verify via Missed Call
+[32mINFO    [0m root:test_buy_module.py:177 Sale Price: ₹ 5 Cr

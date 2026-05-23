@@ -1,0 +1,5 @@
+[32mINFO    [0m root:buy_module_steps.py:16 Clicking Buy Tab
+[32mINFO    [0m root:buy_module_steps.py:19 Entering Location: Hyderabad
+[32mINFO    [0m root:buy_module_steps.py:22 Clicking Search Button
+[32mINFO    [0m root:buy_module_steps.py:27 Verifying Buy Search Results
+[32mINFO    [0m root:test_buy_positive.py:29 Buy Results Heading: Property in Hyderabad for Sale

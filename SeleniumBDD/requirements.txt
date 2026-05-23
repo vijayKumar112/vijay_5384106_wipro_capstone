@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+behave==1.2.6
+allure-behave==2.13.5
+selenium
+=======
+selenium
+pytest
+webdriver-manager
+allure-pytest
+openpyxl
+>>>>>>> 011cb70e5a5541b161f06e947ce11c63a80e003c
